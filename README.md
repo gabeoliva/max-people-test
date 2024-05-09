@@ -1,5 +1,13 @@
 # max-people-test
 
+## Rodando  a aplicação
+
+  - Clone o repositório seguindo o comando abaixo:
+```bash
+# Clonar repositório direto do git
+git clone https://github.com/gabeoliva/max-people-test.git
+``` 
+
 ## Descrição Geral
 
 Este é um projeto cujo **objetivo** era o de suprir a necessidade de um cliente em obter a quantidade de passageiros, simultaneamente dentro de um determinado espaço físico, a partir de dados como horário de entrada e horário de saída dos mesmos. Ele oferece um caminho rápido e dinâmico para o alcance desses resultados.
