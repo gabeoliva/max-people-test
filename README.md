@@ -1,17 +1,17 @@
-#max-people-test
+# max-people-test
 
-##Descrição Geral
+## Descrição Geral
 
 Este é um projeto cujo **objetivo** era o de suprir a necessidade de um cliente em obter a quantidade de passageiros, simultaneamente dentro de um determinado espaço físico, a partir de dados como horário de entrada e horário de saída dos mesmos. Ele oferece um caminho rápido e dinâmico para o alcance desses resultados.
 
 
-##Principais Recursos
+## Principais Recursos
 
 - Dados pré-definidos
 - Visualização rápida e de fácil entendimento dos resultados
 
 
-##Descrição Técnica
+## Descrição Técnica
 
 O projeto foi desenvolvido na linguagem de programação *Python*, e foi estruturado para ser simples e objetivo, da seguinte forma:
 
