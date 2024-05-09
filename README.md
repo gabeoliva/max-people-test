@@ -7,6 +7,17 @@
 # Clonar repositório direto do git
 git clone https://github.com/gabeoliva/max-people-test.git
 ``` 
+  - Abra a pasta dentro do Visual Studio Code.
+  - Certifique-se de ter o Python 3 instalado em seu computador.
+  - Em seguida, no terminal do vscode, digite o seguinte comando:
+```bash
+# Windows:
+python main.py
+```
+```bash
+# Linux:
+python3 main.py
+```
 
 ## Descrição Geral
 
